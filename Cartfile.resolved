@@ -1,7 +1,7 @@
 github "Hearst-DD/ObjectMapper" "3.4.0"
 github "cezheng/Fuzi" "2.0.2"
 github "dexman/Minizip" "1.4.0"
-github "krzyzanowskim/CryptoSwift" "0.7.0"
+github "krzyzanowskim/CryptoSwift" "0.13.1"
 github "readium/r2-shared-swift" "07f5fe26381e0980925f7a16e8c05a1c7455ea45"
 github "swisspol/GCDWebServer" "3.3.3"
 github "tadija/AEXML" "4.2.2"
